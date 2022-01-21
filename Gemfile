@@ -84,7 +84,6 @@ end
 group :test, :development do
   gem 'byebug'
   gem 'mysql2',   '~> 0.4.8'
-  gem 'capybara', '~> 2.7.1'
   gem 'launchy'
   gem 'database_cleaner', "~> 1.6.1"
 end
